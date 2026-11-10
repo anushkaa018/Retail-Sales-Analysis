@@ -28,8 +28,7 @@ The project uses retail transaction data containing information about orders, pr
 Project work completed through the business findings report. GitHub publication is pending.
 
 ## Project Structure
-
-```text
+```
 Retail-Sales-Analysis/
 │
 ├── data/
@@ -40,8 +39,13 @@ Retail-Sales-Analysis/
 ├── sql/
 ├── dashboard/
 ├── reports/
+├── images/
+│   └── dashboard_screenshot.png
+│
+├── .gitignore
 └── README.md
 ```
+
 ## Key Business Findings
 
 1. **Category Performance:** Technology generated the highest sales and profit among the product categories.
