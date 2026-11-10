@@ -54,6 +54,9 @@ Retail-Sales-Analysis/
 ## Dashboard
 An interactive Power BI dashboard was created to explore sales, profit, orders, quantity, category performance, regional performance, and sales trends.
 
+## Dashboard Preview
+![Retail Sales Dashboard](images/dashboard_screenshot.png)
+
 ## Business Recommendations
 - Review pricing, costs, and discount levels for Furniture Tables.
 - Investigate the practices contributing to the West region's strong performance.
