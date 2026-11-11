@@ -34,37 +34,34 @@ Project completed and published on GitHub.
 
 ## Project Structure
 
+## Project Structure
+
+```text
 Retail-Sales-Analysis/
-│
 ├── dashboard/
 │   └── Retail_Sales_Dashboard.pbix
-│
 ├── data/
 │   ├── processed/
 │   │   └── superstore_cleaned.csv
 │   └── raw/
 │       └── sample_-_superstore.xls
-│
 ├── images/
 │   └── dashboard_screenshot.png
-│
 ├── notebooks/
 │   ├── phase1_notes.md
 │   └── retail_sales_analysis.ipynb
-│
 ├── reports/
 │   ├── dashboard_documentation.md
 │   └── Retail_Sales_Business_Findings_Report.pdf
-│
 ├── sql/
 │   ├── 00_database_setup.sql
 │   ├── 01_import_configuration.sql
 │   ├── 02_data_import_validation.sql
 │   └── 03_basic_sql_queries.sql
-│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Installation & Setup
 
