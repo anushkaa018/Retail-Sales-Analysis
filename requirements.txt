@@ -1,0 +1,5 @@
+# Dependencies for the Retail Sales Analysis Jupyter notebook
+pandas
+matplotlib
+xlrd
+notebook
