@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes retail sales data to understand business performance, identify sales and profitability trends, and generate actionable business insights.
+This project analyzes retail sales data to understand business performance, identify s[ales and profitability trends, and generate actionable business insights.
 
 ## Objectives
 
